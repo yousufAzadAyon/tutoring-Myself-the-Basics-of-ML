@@ -33,7 +33,6 @@ from sklearn.linear_model import LinearRegression
 regression = LinearRegression()
 regression = regression.fit(X_train, Y_train)
 
-
 #%%
 
 #predicting the result 
